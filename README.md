@@ -22,16 +22,16 @@ This project transforms raw retail transaction records into a structured Star Sc
 ## 📈 Dashboard & Technical Architecture Preview
 
 ### 1. Database Schema & Star Schema Diagram
-![Database Schema Diagram](QueryResultScreenshots/Schema.png)
+![Database Schema Diagram](Query%20Result%20Screenshots/Schema.png)
 
 ### 2. Product Ranking Within Each Category (CTEs & RANK Window Function)
-![Product Ranking Execution](Images/13.png)
+![Product Ranking Execution](Query%20Result%20Screenshots/13.png)
 
 ### 3. Categorizing States by Performance (Window Functions & CASE Expressions)
-![State Sales Categorization Execution](Images/14.png)
+![State Sales Categorization Execution](Query%20Result%20Screenshots/14.png)
 
 ### 4. Core KPI Calculation Query
-![KPI Query Execution](Images/15.png)
+![KPI Query Execution](Query%20Result%20Screenshots/15.png)
 
 ---
 
